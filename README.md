@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Andrew Laskin</h1>
 <h3 align="center">A Software Developer studying at the University of Florida</h3>
 
-- 🔭 I’m currently working on [CalenAI](https://github.com/ASLaskin/CalenAI)
+- 🔭 I’m currently working on Roleo
 
 - 🌱 I’m currently learning more about **Machine learning**
 
